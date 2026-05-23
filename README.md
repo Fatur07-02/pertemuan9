@@ -40,7 +40,6 @@ Travel Buddy adalah aplikasi mobile sederhana berbasis React Native yang digunak
 ```
 ![Favorites Screen(![Preview Aplikasi](assets/favorites.jpeg))
 ```
-
 ---
 
 # 🛠️ Built With
