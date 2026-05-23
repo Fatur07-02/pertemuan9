@@ -1,5 +1,8 @@
 # 🌍 Travel Buddy App
 
+Muhammad Raihan Faturrahman
+243303621241
+
 Travel Buddy adalah aplikasi mobile sederhana berbasis React Native yang digunakan untuk mencari dan melihat destinasi wisata populer di Indonesia.
 
 ## ✨ Features
@@ -41,7 +44,7 @@ Tambahkan screenshot Search di sini.
 Tambahkan screenshot Favorites di sini.
 
 ```md
-![Favorites Screen]('assets/favorites.jpeg')
+![Favorites Screen('assets/favorites.jpeg')
 ```
 
 ---
